@@ -43,11 +43,11 @@
     cursor: pointer;
     font-size: 18px;
     transition: 0.5s;
-    background-color: #38ae95;
+    background-color: #059b7b;
     border-radius: 6px;
     color: white;
  }
  .btn input[type='button']:hover{
-    background-color: pink;
+    background-color:rgb(62, 62, 89);
     color: white;
  }
